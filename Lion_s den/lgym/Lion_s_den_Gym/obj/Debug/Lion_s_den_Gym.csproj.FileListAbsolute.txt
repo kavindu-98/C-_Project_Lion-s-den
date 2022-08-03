@@ -1,0 +1,469 @@
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\obj\Debug\gym.Equipment.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\obj\Debug\gym.Home.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\obj\Debug\gym.Payment.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Properties.Resources.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\obj\Debug\gym.Registration.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\obj\Debug\gym.Schedule.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\obj\Debug\gym.Supplement.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.GenerateResource.cache
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.CoreCompileInputs.cache
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.exe.config
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.exe
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.pdb
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.exe
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.pdb
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.login.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\bin\Debug\Guna.UI2.dll
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.CopyComplete
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.menu.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_login.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_login.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_lo.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_sign.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_lo.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_sign.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.mem_reg.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.co_reg.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.exe.config
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.exe
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.pdb
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\bin\Debug\Guna.UI2.dll
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_lo.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_login.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_sign.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.co_reg.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\obj\Debug\gym.Equipment.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\obj\Debug\gym.Home.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.login.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.mem_reg.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.menu.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\obj\Debug\gym.Payment.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Properties.Resources.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\obj\Debug\gym.Registration.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\obj\Debug\gym.Schedule.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\obj\Debug\gym.Supplement.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_lo.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_login.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_sign.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.GenerateResource.cache
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.CoreCompileInputs.cache
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.CopyComplete
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.exe
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\copy\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.pdb
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csprojAssemblyReference.cache
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.exe.config
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.exe
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.pdb
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Guna.UI2.dll
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_lo.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_login.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_sign.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.co_reg.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Equipment.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Home.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.login.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.mem_reg.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.menu.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Payment.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Properties.Resources.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Registration.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Schedule.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Supplement.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_lo.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_login.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_sign.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.GenerateResource.cache
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.CoreCompileInputs.cache
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.CopyComplete
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.exe
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.pdb
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.exe.config
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.exe
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.pdb
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Guna.UI2.dll
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_lo.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_login.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_sign.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.co_reg.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Equipment.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Home.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.login.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.mem_reg.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.menu.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Payment.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Properties.Resources.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Registration.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Schedule.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Supplement.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_lo.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_login.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_sign.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.GenerateResource.cache
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.CoreCompileInputs.cache
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.CopyComplete
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.exe
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\hg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.pdb
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.exe.config
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.exe
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.pdb
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Guna.UI2.dll
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_lo.resources
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_login.resources
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_sign.resources
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.co_reg.resources
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Equipment.resources
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Home.resources
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.login.resources
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.mem_reg.resources
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.menu.resources
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Payment.resources
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Properties.Resources.resources
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Registration.resources
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Schedule.resources
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Supplement.resources
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_lo.resources
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_login.resources
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_sign.resources
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.GenerateResource.cache
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.CoreCompileInputs.cache
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.CopyComplete
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.exe
+D:\gym system\website\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.pdb
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.exe.config
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.exe
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.pdb
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Guna.UI2.dll
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csprojAssemblyReference.cache
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_lo.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_login.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_sign.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.co_reg.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Equipment.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Home.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.login.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.mem_reg.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.menu.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Payment.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Properties.Resources.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Registration.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Schedule.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Supplement.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_lo.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_login.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_sign.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.GenerateResource.cache
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.CoreCompileInputs.cache
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.CopyComplete
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.exe
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.pdb
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.exe.config
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.exe
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.pdb
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Guna.UI2.dll
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_lo.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_login.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_sign.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.co_reg.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Equipment.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Home.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.login.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.mem_reg.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.menu.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Payment.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Properties.Resources.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Registration.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Schedule.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Supplement.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_lo.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_login.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_sign.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.GenerateResource.cache
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.CoreCompileInputs.cache
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.CopyComplete
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.exe
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.pdb
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\ghg\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csprojAssemblyReference.cache
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.exe.config
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.exe
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.pdb
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Guna.UI2.dll
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\bin\Debug\NodaTime.dll
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\bin\Debug\NodaTime.pdb
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\bin\Debug\NodaTime.xml
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csprojAssemblyReference.cache
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_lo1.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_login.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_sign.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Bill_payments.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Coach_payments.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.co_reg.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Equipment.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.exit1.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Home.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.income_reports.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.login.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.logout.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Mem_fee.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.mem_reg.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.menu.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Payment.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Pending_Payments.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Properties.Resources.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Registration.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.reminder.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.reports.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Resources.special_notes.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Schedule.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Supplement.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Sup_payments.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_lo.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_login.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_sign.resources
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.GenerateResource.cache
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.CoreCompileInputs.cache
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.CopyComplete
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.exe
+D:\gym system\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\new\1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.pdb
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.exe.config
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.exe
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.pdb
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Guna.UI2.dll
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\bin\Debug\NodaTime.dll
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\bin\Debug\NodaTime.pdb
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\bin\Debug\NodaTime.xml
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.AssemblyReference.cache
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_lo1.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_login.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_sign.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Bill_payments.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Coach_payments.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.co_reg.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Equipment.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.exit1.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Home.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.income_reports.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.login.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.logout.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Mem_fee.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.mem_reg.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.menu.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Payment.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Pending_Payments.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Properties.Resources.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Registration.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.reminder.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.reports.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Resources.special_notes.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Schedule.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Supplement.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Sup_payments.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_lo.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_login.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_sign.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.GenerateResource.cache
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.CoreCompileInputs.cache
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.CopyComplete
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.exe
+C:\Users\tharindu123\Desktop\c# current project\Lion's den (3)\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.pdb
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\bin\Debug\jim_database-1.mdf
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\bin\Debug\jim_database-1_log.ldf
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.exe.config
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.exe
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.pdb
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Guna.UI2.dll
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\bin\Debug\NodaTime.dll
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\bin\Debug\NodaTime.pdb
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\bin\Debug\NodaTime.xml
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_lo1.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_login.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_sign.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Bill_payments.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Coach_list.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Coach_payments.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Completed_Payments.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.co_reg.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Equipment.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.exit1.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Home.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.income_reports.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.login.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.logout.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Members_list.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Mem_fee.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.mem_reg.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.menu.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Payment.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Pending_Payments.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Properties.Resources.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Registration.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.reminder.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.reports.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Resources.special_notes.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Schedule.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Supplement.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Sup_payments.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_lo.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_login.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_sign.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.GenerateResource.cache
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.CoreCompileInputs.cache
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.CopyComplete
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.exe
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.pdb
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-1\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.AssemblyReference.cache
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\bin\Debug\jim_database-1.mdf
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\bin\Debug\jim_database-1_log.ldf
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.exe.config
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.exe
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.pdb
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Guna.UI2.dll
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\bin\Debug\NodaTime.dll
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\bin\Debug\NodaTime.pdb
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\bin\Debug\NodaTime.xml
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.AssemblyReference.cache
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_lo1.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_login.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_sign.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Bill_payments.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Coach_list.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Coach_payments.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.completed_payments.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.co_reg.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Equipment.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.exit1.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Home.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.income_reports.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.login.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.logout.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Members_list.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Mem_fee.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.mem_reg.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.menu.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Payment.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Pending_Payments.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Properties.Resources.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Registration.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.reminder.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.reports.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Resources.special_notes.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Schedule.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Supplement.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Sup_payments.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_lo.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_login.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_sign.resources
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.GenerateResource.cache
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.CoreCompileInputs.cache
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.CopyComplete
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.exe
+C:\Users\tharindu123\Desktop\c# project bacup\Lion's den-8\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.pdb
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\bin\Debug\jim_database-1.mdf
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\bin\Debug\jim_database-1_log.ldf
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.exe.config
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.exe
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Lion's_den_Gym.pdb
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\bin\Debug\Guna.UI2.dll
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\bin\Debug\NodaTime.dll
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\bin\Debug\NodaTime.pdb
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\bin\Debug\NodaTime.xml
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_lo1.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_login.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.admin_sign.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Bill_payments.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Coach_list.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Coach_payments.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.forgot.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Suppliment_repot.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.co_reg.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Equipment.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.exit1.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Home.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.income_reports.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.login.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.logout.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Members_list.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Mem_fee.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.mem_reg.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.menu.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Payment.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Bill_report.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Properties.Resources.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Registration.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.reminder.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.reports.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Resources.special_notes.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Schedule.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\gym.Supplement.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.Sup_payments.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_lo.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_login.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion_s_den_Gym.user_sign.resources
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.GenerateResource.cache
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.CoreCompileInputs.cache
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.csproj.CopyComplete
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.exe
+C:\Users\tharindu123\Desktop\c# current project\Lion's den-9\Lion's den\lgym\Lion's_den_Gym\obj\Debug\Lion's_den_Gym.pdb
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\bin\Debug\jim_database-1.mdf
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\bin\Debug\jim_database-1_log.ldf
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\bin\Debug\Lion's_den_Gym.exe.config
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\bin\Debug\Lion's_den_Gym.exe
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\bin\Debug\Lion's_den_Gym.pdb
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\bin\Debug\BouncyCastle.Crypto.dll
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\bin\Debug\Guna.UI2.dll
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\bin\Debug\NodaTime.dll
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\bin\Debug\NodaTime.pdb
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\bin\Debug\NodaTime.xml
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.csprojAssemblyReference.cache
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.admin_lo1.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.admin_login.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.admin_sign.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.ad_forgot.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.Bill_payments.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.Coach_list.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.Coach_payments.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.forgot.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.Suppliment_repot.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.co_reg.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\gym.Equipment.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.exit1.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\gym.Home.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.income_reports.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.login.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.logout.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.Members_list.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.Mem_fee.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.mem_reg.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.menu.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\gym.Payment.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.Bill_report.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.Properties.Resources.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\gym.Registration.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.reminder.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.reports.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.Resources.special_notes.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\gym.Schedule.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\gym.Supplement.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.Sup_payments.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.user_lo.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.user_login.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.user_sign.resources
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.csproj.GenerateResource.cache
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.csproj.CoreCompileInputs.cache
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion_s_den_Gym.csproj.CopyComplete
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion's_den_Gym.exe
+D:\Lion's den-9\Lion_s den-9\Lion_s den\lgym\Lion_s_den_Gym\obj\Debug\Lion's_den_Gym.pdb
